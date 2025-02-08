@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7d8cc2b42bf72664581176bac2198155
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startMenu_DeathMenu_Panel: {instanceID: 0}
+  - startMenu_DeathMenu_Text: {fileID: 6346817989272537135, guid: fe74c60049671374abb9b8fbc9dece40, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
