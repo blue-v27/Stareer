@@ -10,5 +10,5 @@ Though I am proud of the game I've made there are many thinkg I'd do differently
 -DIFFICULTY scaling
 -Optimize the GRAPHICS
 -server side SAVING instead of client side
--ENEMYES variaty
+-ENEMIES variaty
 -slicker UI
